@@ -12,5 +12,6 @@
         <card number="1" price="0" name="Opaline Unicorn"/>
         <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" price="0" name="Juggernaut"/>
     </zone>
 </cockatrice_deck>
