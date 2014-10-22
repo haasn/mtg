@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Nullify"/>
+        <card number="3" price="0" name="Pin to the Earth"/>
+        <card number="4" price="0" name="Negate"/>
+        <card number="1" price="0" name="Voyage's End"/>
+        <card number="3" price="0" name="Gods Willing"/>
+        <card number="1" price="0" name="Uncovered Clues"/>
+        <card number="3" price="0" name="Jace's Ingenuity"/>
+        <card number="1" price="0" name="Last Breath"/>
+        <card number="1" price="0" name="Excoriate"/>
+        <card number="1" price="0" name="Oracle's Insight"/>
+        <card number="2" price="0" name="Divination"/>
+        <card number="1" price="0" name="Protect // Serve"/>
+        <card number="2" price="0" name="Frost Lynx"/>
+        <card number="1" price="0" name="Serra Angel"/>
+        <card number="2" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Cancel"/>
+        <card number="1" price="0" name="Revoke Existence"/>
+        <card number="1" price="0" name="Guardians of Meletis"/>
+        <card number="1" price="0" name="Ephara's Radiance"/>
+        <card number="1" price="0" name="Banishing Light"/>
+        <card number="1" price="0" name="Prognostic Sphinx"/>
+        <card number="2" price="0" name="Divine Verdict"/>
+        <card number="1" price="0" name="Aegis Angel"/>
+        <card number="1" price="0" name="Mahamoti Djinn"/>
+        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="13" price="0" name="Island"/>
+    </zone>
+</cockatrice_deck>

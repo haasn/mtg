@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="13" price="0" name="Plains"/>
+        <card number="1" price="0" name="Glimpse the Sun God"/>
+        <card number="1" price="0" name="Loyal Pegasus"/>
+        <card number="1" price="0" name="Oppressive Rays"/>
+        <card number="1" price="0" name="Akroan Hoplite"/>
+        <card number="1" price="0" name="Akroan Skyguard"/>
+        <card number="1" price="0" name="Boros Mastiff"/>
+        <card number="1" price="0" name="Battlewise Hoplite"/>
+        <card number="2" price="0" name="Chosen by Heliod"/>
+        <card number="1" price="0" name="Kinsbaile Skirmisher"/>
+        <card number="1" price="0" name="Ordeal of Heliod"/>
+        <card number="1" price="0" name="Oreskos Swiftclaw"/>
+        <card number="2" price="0" name="Vanguard of Brimaz"/>
+        <card number="1" price="0" name="Dauntless Onslaught"/>
+        <card number="2" price="0" name="Eagle of the Watch"/>
+        <card number="1" price="0" name="Ephara's Enlightenment"/>
+        <card number="1" price="0" name="Heliod's Pilgrim"/>
+        <card number="1" price="0" name="Wingsteed Rider"/>
+        <card number="1" price="0" name="Akroan Phalanx"/>
+        <card number="1" price="0" name="Inspired Charge"/>
+        <card number="1" price="0" name="Sanctified Charge"/>
+        <card number="1" price="0" name="Silent Artisan"/>
+        <card number="1" price="0" name="Skyspear Cavalry"/>
+        <card number="1" price="0" name="Maze Sentinel"/>
+    </zone>
+</cockatrice_deck>

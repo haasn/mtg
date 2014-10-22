@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="25" price="0" name="Island"/>
+        <card number="1" price="0" name="Hypnotic Siren"/>
+        <card number="1" price="0" name="Curse of the Swine"/>
+        <card number="2" price="0" name="Divination"/>
+        <card number="1" price="0" name="Diffusion Sliver"/>
+        <card number="1" price="0" name="Invisibility"/>
+        <card number="1" price="0" name="Murmuring Phantasm"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="3" price="0" name="Omenspeaker"/>
+        <card number="1" price="0" name="Voyage's End"/>
+        <card number="4" price="0" name="Vaporkin"/>
+        <card number="1" price="0" name="Coral Barrier"/>
+        <card number="1" price="0" name="Frost Lynx"/>
+        <card number="1" price="0" name="Nyxborn Triton"/>
+        <card number="3" price="0" name="Nimbus Naiad"/>
+        <card number="1" price="0" name="Wavecrash Triton"/>
+        <card number="1" price="0" name="Breaching Hippocamp"/>
+        <card number="1" price="0" name="Cloaked Siren"/>
+        <card number="2" price="0" name="Griptide"/>
+        <card number="1" price="0" name="Into the Void"/>
+        <card number="2" price="0" name="Thassa's Emissary"/>
+        <card number="1" price="0" name="AEtherspouts"/>
+        <card number="1" price="0" name="Rise of Eagles"/>
+        <card number="1" price="0" name="Horizon Scholar"/>
+    </zone>
+</cockatrice_deck>

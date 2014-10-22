@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="30" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Hammerhand"/>
+        <card number="2" price="0" name="Akroan Crusader"/>
+        <card number="2" price="0" name="Dragon Mantle"/>
+        <card number="1" price="0" name="Messenger's Speed"/>
+        <card number="1" price="0" name="Deathbellow Raider"/>
+        <card number="2" price="0" name="Fall of the Hammer"/>
+        <card number="2" price="0" name="Generator Servant"/>
+        <card number="1" price="0" name="Inferno Fist"/>
+        <card number="4" price="0" name="Lightning Strike"/>
+        <card number="1" price="0" name="Rise to the Challenge"/>
+        <card number="1" price="0" name="Searing Blood"/>
+        <card number="1" price="0" name="Bolt of Keranos"/>
+        <card number="1" price="0" name="Kragma Butcher"/>
+        <card number="1" price="0" name="Krenko's Enforcer"/>
+        <card number="2" price="0" name="Minotaur Skullcleaver"/>
+        <card number="1" price="0" name="Pyrewild Shaman"/>
+        <card number="1" price="0" name="Rummaging Goblin"/>
+        <card number="1" price="0" name="Ragemonger"/>
+        <card number="1" price="0" name="Seismic Strike"/>
+        <card number="3" price="0" name="Two-Headed Cerberus"/>
+        <card number="1" price="0" name="Viashino Firstblade"/>
+        <card number="1" price="0" name="Brood Keeper"/>
+        <card number="1" price="0" name="Bladetusk Boar"/>
+        <card number="1" price="0" name="Furnace Whelp"/>
+        <card number="3" price="0" name="Ill-Tempered Cyclops"/>
+        <card number="1" price="0" name="Lightning Volley"/>
+        <card number="1" price="0" name="Rubblebelt Maaka"/>
+        <card number="1" price="0" name="Borderland Marauder"/>
+        <card number="1" price="0" name="Kragma Warcaller"/>
+        <card number="1" price="0" name="Flurry of Horns"/>
+        <card number="1" price="0" name="Rollick of Abandon"/>
+        <card number="1" price="0" name="Stoneshock Giant"/>
+        <card number="1" price="0" name="Wildfire Cerberus"/>
+        <card number="1" price="0" name="Blastfire Bolt"/>
+        <card number="1" price="0" name="Shivan Dragon"/>
+        <card number="1" price="0" name="Boulderfall"/>
+    </zone>
+</cockatrice_deck>

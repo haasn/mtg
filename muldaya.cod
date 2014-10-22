@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Scute Mob"/>
+        <card number="3" price="0" name="Khalni Heart Expedition"/>
+        <card number="4" price="0" name="Explore"/>
+        <card number="1" price="0" name="Rampant Growth"/>
+        <card number="2" price="0" name="Tangle"/>
+        <card number="3" price="0" name="Grazing Gladehart"/>
+        <card number="3" price="0" name="Oracle of Mul Daya"/>
+        <card number="1" price="0" name="Harmonize"/>
+        <card number="1" price="0" name="Plow Under"/>
+        <card number="2" price="0" name="Primeval Titan"/>
+        <card number="1" price="0" name="Summoning Trap"/>
+        <card number="2" price="0" name="Pelakka Wurm"/>
+        <card number="2" price="0" name="All Is Dust"/>
+        <card number="1" price="0" name="Tooth and Nail"/>
+        <card number="1" price="0" name="Gaea's Revenge"/>
+        <card number="1" price="0" name="Ulamog's Crusher"/>
+        <card number="2" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Pathrazer of Ulamog"/>
+        <card number="1" price="0" name="It That Betrays"/>
+        <card number="1" price="0" name="Eldrazi Conscription"/>
+        <card number="1" price="0" name="Eye of Ugin"/>
+        <card number="24" price="0" name="Forest"/>
+        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
+    </zone>
+</cockatrice_deck>
