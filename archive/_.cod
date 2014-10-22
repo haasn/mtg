@@ -11,5 +11,6 @@
         <card number="1" price="0" name="Tyrant's Machine"/>
         <card number="1" price="0" name="Opaline Unicorn"/>
         <card number="1" price="0" name="Burnished Hart"/>
+        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
     </zone>
 </cockatrice_deck>

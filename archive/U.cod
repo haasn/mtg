@@ -5,7 +5,6 @@
     <zone name="main">
         <card number="25" price="0" name="Island"/>
         <card number="1" price="0" name="Hypnotic Siren"/>
-        <card number="1" price="0" name="Curse of the Swine"/>
         <card number="2" price="0" name="Divination"/>
         <card number="1" price="0" name="Diffusion Sliver"/>
         <card number="1" price="0" name="Invisibility"/>

@@ -27,9 +27,9 @@
         <card number="2" price="0" name="Divine Verdict"/>
         <card number="1" price="0" name="Aegis Angel"/>
         <card number="1" price="0" name="Mahamoti Djinn"/>
-        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
         <card number="1" price="0" name="Temple of Mystery"/>
         <card number="8" price="0" name="Plains"/>
         <card number="13" price="0" name="Island"/>
+        <card number="1" price="0" name="Curse of the Swine"/>
     </zone>
 </cockatrice_deck>
